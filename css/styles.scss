@@ -1,0 +1,10 @@
+h1{
+    color: pink;
+}
+
+@media screen and (min-width: 320px){
+    img{
+        width: 30px;
+        height: 20px;
+    }
+}
